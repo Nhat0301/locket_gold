@@ -21,6 +21,6 @@ scriptings:
 - http_response:
     name: Locket_Gold_Minath
     match: ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$)
-    script_url: https://download.aqvpn.eu.org/script/apptesters/Locket_Gold.js
+    script_url: https://raw.githubusercontent.com/Nhat0301/locket_gold/main/Locket_Gold.js
     body_required: true
     update_interval: 5
